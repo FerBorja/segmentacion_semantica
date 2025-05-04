@@ -78,7 +78,7 @@ Train a deep learning model to **automatically segment brain tumors** in MRI ima
 
 - **Format:** HDF5 (`best_model.h5`)
 - **Usage:** Ready for inference or fine-tuning on other medical datasets  
-- [Download Trained Model](assets/models/best_model.h5)
+- [Download Trained Model](https://github.com/FerBorja/segmentacion_semantica/blob/main/best_model.h5)
 
 ---
 
@@ -87,10 +87,6 @@ Train a deep learning model to **automatically segment brain tumors** in MRI ima
 <p align="center">
   <img src="tumor_segmentation.gif" width="400" alt="Mask overlay">
 </p>
-
-- **Format:** HDF5 (`best_model.h5`)
-- **Usage:** Ready for inference or fine-tuning on other medical datasets  
-- [Download Trained Model](assets/models/best_model.h5)
 
 ## Future Improvements
 
