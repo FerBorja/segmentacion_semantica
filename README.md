@@ -70,7 +70,7 @@ Train a deep learning model to **automatically segment brain tumors** in MRI ima
 <p align="center">
   <img src="assets/images/mask_overlay_example.png" width="400" alt="Mask overlay">
 </p>
-<p align="center"><em>Green: Ground truth mask. Red: Model prediction.</em></p>
+<p align="center"><em>Blue: Ground truth mask. Red: Model prediction.</em></p>
 
 ---
 
